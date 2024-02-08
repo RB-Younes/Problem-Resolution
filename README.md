@@ -16,6 +16,9 @@
    - Developed a Python program to create and display a 3x3 grid for a sliding puzzle game.
 2. **Tasks Completed**:
    - Added functionality to allow moving numbers within the grid to solve the puzzle (java GUI).
+<p align="center">
+  <img width= 300; src="Solution search in a state space 2/GUI.png">
+</p>
    - Utilized the A* algorithm to find the optimal path for solving the puzzle.
 
 ## Series of Practical Works No. 3: MinMax Procedure and Alpha-Beta Pruning
